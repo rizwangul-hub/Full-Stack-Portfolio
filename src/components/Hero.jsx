@@ -111,7 +111,7 @@ export default function Hero() {
           <img
             src={heroImg}
             alt="Rizwan"
-            className="w-[280px] sm:w-[350px] md:w-[420px] lg:w-[600px]  object-cover"
+            className="w-[280px] sm:w-[351px] md:w-[420px] lg:w-[600px]  object-cover"
           />
         </div>
       </motion.div>

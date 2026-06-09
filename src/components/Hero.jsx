@@ -78,11 +78,11 @@ export default function Hero() {
 
           <button className="px-7 py-3 rounded-[30px] border-2 border-sky-400 text-sky-400 hover:bg-sky-400 hover:text-slate-900 duration-300">
             <a
-              href="/src/assets/image/Rizwan Ullah CV FOR JOB.pdf"
+              href="/src/assets/image/cv.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Download CV
+              Check My CV
             </a>
           </button>
         </motion.div>

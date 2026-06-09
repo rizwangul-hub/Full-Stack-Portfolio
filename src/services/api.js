@@ -3,6 +3,7 @@ import axios from "axios";
 const API = axios.create({
   baseURL: import.meta.env.VITE_API_URL || "http://localhost:5000/api",
 });
+console.log(import.meta.env.VITE_API_URL, "API Base URL");
 
 // Interceptor to automatically add JWT token to authorized requests
 API.interceptors.request.use(
@@ -15,7 +16,7 @@ API.interceptors.request.use(
   },
   (error) => {
     return Promise.reject(error);
-  }
+  },
 );
 
 export const projectAPI = {
@@ -24,7 +25,7 @@ export const projectAPI = {
     const url = page ? `/projects?page=${page}&limit=${limit}` : "/projects";
     return API.get(url);
   },
-  
+
   // Get a single project
   getOne: (id) => API.get(`/projects/${id}`),
 

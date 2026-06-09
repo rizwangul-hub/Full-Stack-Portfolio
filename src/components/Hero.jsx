@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation";
 import heroImg from "../assets/image/about.png";
+import mycv from "../assets/image/cv.pdf";
 
 export default function Hero() {
   return (
@@ -78,7 +79,7 @@ export default function Hero() {
 
           <button className="px-7 py-3 rounded-[30px] border-2 border-sky-400 text-sky-400 hover:bg-sky-400 hover:text-slate-900 duration-300">
             <a
-              href="/src/assets/image/cv.pdf"
+              href={mycv}
               target="_blank"
               rel="noopener noreferrer"
             >

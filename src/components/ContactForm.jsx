@@ -8,6 +8,7 @@ import { FiSend, FiCheckCircle } from "react-icons/fi";
 export const ContactForm = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
+  const [whatsapp, setWhatsapp] = useState("");
   const [subject, setSubject] = useState("");
   const [message, setMessage] = useState("");
 
@@ -31,6 +32,13 @@ export const ContactForm = () => {
       const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
       if (!emailRegex.test(email.trim())) {
         newErrors.email = "Please enter a valid email address";
+      }
+    }
+
+    if (whatsapp.trim()) {
+      const whatsappRegex = /^[+]?([0-9\s\-()]){7,25}$/;
+      if (!whatsappRegex.test(whatsapp.trim())) {
+        newErrors.whatsapp = "Please enter a valid WhatsApp number";
       }
     }
 
@@ -65,6 +73,7 @@ export const ContactForm = () => {
       const response = await contactAPI.submit({
         name,
         email,
+        whatsapp,
         subject,
         message,
       });
@@ -75,6 +84,7 @@ export const ContactForm = () => {
         // Reset form inputs
         setName("");
         setEmail("");
+        setWhatsapp("");
         setSubject("");
         setMessage("");
       }
@@ -143,6 +153,17 @@ export const ContactForm = () => {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 error={errors.email}
+                disabled={loading}
+              />
+
+              <ContactInput
+                label="WhatsApp Number"
+                id="whatsapp"
+                type="tel"
+                placeholder="+1 234 567 8900"
+                value={whatsapp}
+                onChange={(e) => setWhatsapp(e.target.value)}
+                error={errors.whatsapp}
                 disabled={loading}
               />
 

@@ -19,7 +19,7 @@ export default function About() {
           viewport={{ once: true, amount: 0.3 }}
           className="flex justify-center"
         >
-          <div className="relative w-[360px] h-[360px] rounded-[25px] flex justify-center items-center overflow-hidden animated-border-box">
+          <div className="relative w-[360px] h-[460px] rounded-[25px] flex justify-center items-center overflow-hidden animated-border-box">
             <div className="relative w-[90%] h-[90%] bg-[#050510] rounded-[20px] z-10 flex justify-center items-center">
               <img
                 src={AboutImage}

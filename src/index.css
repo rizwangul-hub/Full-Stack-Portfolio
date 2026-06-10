@@ -213,8 +213,8 @@
 .animated-border-box::before {
   content: "";
   position: absolute;
-  width: 150%;
-  height: 150%;
+  width: 200%;
+  height: 200%;
   background: linear-gradient(
     0deg,
     #00e5ff,
@@ -239,7 +239,7 @@
 @media (max-width: 600px) {
   .animated-border-box {
     width: 280px !important;
-    height: 280px !important;
+    height: 350px !important;
   }
 }
 @tailwind utilities;

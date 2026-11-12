@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 
 import heroImg from "../assets/image/hero-portrait.jpg";
-import mycv from "../assets/image/RIZWAN.pdf";
+import mycv from "../assets/image/RizwanCV.pdf";
 import { useAdmin } from "../context/AdminContext";
 import { portfolioAPI } from "../services/api";
 import { FiArrowDown, FiArrowUpRight, FiCode, FiEdit3 } from "react-icons/fi";

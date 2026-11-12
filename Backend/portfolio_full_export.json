@@ -1,0 +1,402 @@
+{
+  "exportedAt": "2026-09-30T14:39:22.605Z",
+  "counts": {
+    "projectsCount": 22,
+    "skillsCount": 0,
+    "aiToolsCount": 0,
+    "servicesCount": 0
+  },
+  "profile": {
+    "_id": "6a86f33c829eb338b73d9083",
+    "heroImage": "",
+    "aboutImage": "",
+    "yearsExperience": "1+",
+    "passion": "100%",
+    "aboutTitle": "MERN Stack Developer",
+    "aboutDescription": "",
+    "customProjectsCount": null,
+    "createdAt": "2026-08-20T12:29:48.413Z",
+    "updatedAt": "2026-08-20T12:29:48.413Z",
+    "__v": 0
+  },
+  "projects": [
+    {
+      "_id": "6a9e286fd468fb4a366a8733",
+      "title": "Yasin Malik Restaurant Peshawar",
+      "description": "This is Full stack project for famous TikToker   Yasin Malik Restaurant located in Peshawar.",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1788749935/portfolio_projects/eshzkiwjperivo1ewvjr.png",
+      "liveLink": "https://yaseen-malik-resturent.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "Node JS",
+        "Mongo DB"
+      ],
+      "category": "MERN Stack",
+      "user": "admin",
+      "createdAt": "2026-09-07T02:58:55.821Z",
+      "updatedAt": "2026-09-07T02:58:55.821Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a9e273cd468fb4a366a8732",
+      "title": "Yasin Laptop Hub",
+      "description": "This is full stack project for Yasin Laptop hub which are located in lakki marwat . ",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1788749627/portfolio_projects/ftoypnftzkyekup4vitw.png",
+      "liveLink": "https://yasinlaptop.store",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "Tailwind",
+        "Custom CSS",
+        "Node Js",
+        "Mongo DB"
+      ],
+      "category": "Full Stack",
+      "user": "admin",
+      "createdAt": "2026-09-07T02:53:48.023Z",
+      "updatedAt": "2026-09-07T02:53:48.023Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86dbde6c9462233764639d",
+      "title": "PrepForce AI",
+      "description": "This is my final project of mern stack development which i make for mokup test for force job test.\r\n\r\n",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787223004/portfolio_projects/xfucldsdtwobkz9m536o.png",
+      "liveLink": "https://www.prepforceai.online/dashboard",
+      "githubLink": "",
+      "technologies": [
+        "React. Tailwind",
+        "JWT",
+        "cloudnry",
+        "Node",
+        "Express",
+        "Mongo"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:50:06.217Z",
+      "updatedAt": "2026-08-20T10:51:04.987Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86daf66c9462233764639c",
+      "title": "Business Nexus",
+      "description": "This is Internship project which are assigned to make Business Nexus in React\r\n ",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787222774/portfolio_projects/dmhtajvjadg2vlbjx6ed.png",
+      "liveLink": "https://nexus-bice-five.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "Talwind CSS"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:46:14.409Z",
+      "updatedAt": "2026-08-20T10:46:14.409Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86d9f36c9462233764639b",
+      "title": "Aetherfield Project",
+      "description": "This is CSS assignment tot make Aetherfield project using HTML, CSS  and Talwind CSS",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787222515/portfolio_projects/lfz7j6r5o3b7mll58nb3.png",
+      "liveLink": "https://aetherfield-project.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Talwind CSS"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:41:55.665Z",
+      "updatedAt": "2026-08-20T10:41:55.665Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86d9436c9462233764639a",
+      "title": "Notes Management project",
+      "description": "This is the full stack project for keeping your notes.",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787222338/portfolio_projects/udjwh7m5bbbb2xxn6gpp.png",
+      "liveLink": "https://notes-management-frontend-21us.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "Talwind CSS",
+        "JWT",
+        "Node",
+        "Mongo DB"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:38:59.422Z",
+      "updatedAt": "2026-08-20T10:38:59.422Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86d7e16c94622337646399",
+      "title": "Guest House",
+      "description": "This is CSS assignment to make Guest house website from figma design",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787221984/portfolio_projects/grsotkyao8zajtexqqma.png",
+      "liveLink": "https://guest-house-wplb.vercel.app",
+      "githubLink": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Talwind CSS"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:33:05.218Z",
+      "updatedAt": "2026-08-20T10:33:05.218Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86d7316c94622337646398",
+      "title": "Finance Project",
+      "description": "This is the assignement of CSS to make custom Finance project from figma deign ",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787221808/portfolio_projects/dbuopv1fdbd8xgad72ub.png",
+      "liveLink": "https://finance-project-5r2v.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Talwind CSS"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:30:09.565Z",
+      "updatedAt": "2026-08-20T10:30:09.565Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86d6236c94622337646397",
+      "title": "Khebar Property dealer",
+      "description": "This is MVP project for khebar property dealer",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787221538/portfolio_projects/oz0ez0jiw69uwsv1joik.png",
+      "liveLink": "https://pekhawar-property-84ec.vercel.app",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "Talwind CSS"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:25:39.601Z",
+      "updatedAt": "2026-08-20T10:25:39.601Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86d52d6c94622337646396",
+      "title": "Hackathon  Project",
+      "description": "This is asigned in Hackathon after completed HTML and CSS.",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787221292/portfolio_projects/bvocigzvnyss8gzswdom.png",
+      "liveLink": "https://trazer-tourism.vercel.app",
+      "githubLink": "",
+      "technologies": [
+        "HTML",
+        "CSS"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:21:33.400Z",
+      "updatedAt": "2026-08-20T10:21:33.400Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86d39c6c94622337646395",
+      "title": "Universal Shop Khata App",
+      "description": "This is app is making for all type of shop which they stored data in register. So i make digital solvtion for it . ",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787220892/portfolio_projects/fptkmvqqfzqvfmqkb02v.jpg",
+      "liveLink": "https://expo.dev/accounts/rizmern/projects/universal-shop-khata/builds/de9e9933-30d1-4480-8a0a-655595714c48",
+      "githubLink": "",
+      "technologies": [
+        "React Native",
+        "Nativewind",
+        "Node",
+        "Mongo"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:14:52.905Z",
+      "updatedAt": "2026-08-20T10:14:52.905Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a86d2fe6c94622337646394",
+      "title": "Tailor Management SaaS product App",
+      "description": "I’m working on a real-world SaaS solution to replace the traditional tailor register with a modern offline-first digital system for customers, measurements, stitching orders, ledger/khaata, search, backup & restore, and more.",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1787220734/portfolio_projects/lex0vvwvrhelwe5rxjgg.jpg",
+      "liveLink": "https://expo.dev/accounts/rizwangul2426/projects/Tailer_saas_product/builds/602821dd-99b2-411a-b7ef-f3e1fcc0f242",
+      "githubLink": "",
+      "technologies": [
+        "React Native",
+        "Nativewind",
+        "Node",
+        "Express",
+        "Mongo"
+      ],
+      "user": "admin",
+      "createdAt": "2026-08-20T10:12:14.780Z",
+      "updatedAt": "2026-08-20T10:12:39.140Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a5fd9788681ba586b13c445",
+      "title": "Internship-ecommerce-project",
+      "description": "This project is assigned in internship of frontend website from figma  design .",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1784666487/portfolio_projects/gq0y68d7hfwohsuyculp.png",
+      "liveLink": "https://intern-commercial-project.vercel.app",
+      "githubLink": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "user": "admin",
+      "createdAt": "2026-07-21T20:41:28.354Z",
+      "updatedAt": "2026-07-21T20:41:28.354Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a5fd7bd5c8cfb0ee0525ce0",
+      "title": "Task Flow",
+      "description": "This class assignment project which are manager give task to every developer and drag and drop from one state to another",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1784666044/portfolio_projects/y4h9ett3mcfdncui4agf.png",
+      "liveLink": "https://task-flow-nu-rust.vercel.app",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "Tailwind",
+        "JWT",
+        "cloudnry",
+        "rest api",
+        "monogo node",
+        "express"
+      ],
+      "user": "admin",
+      "createdAt": "2026-07-21T20:34:05.260Z",
+      "updatedAt": "2026-07-21T20:34:05.260Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a5fcfab13f81615dcc83ab5",
+      "title": "Peshawar Property dealer",
+      "description": "This id demo project for local property dealer client ",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1784663978/portfolio_projects/k82ng18zv5doebtahwfx.png",
+      "liveLink": "https://pekhawar-property.vercel.app",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "Tailwind"
+      ],
+      "user": "admin",
+      "createdAt": "2026-07-21T19:59:39.171Z",
+      "updatedAt": "2026-07-21T19:59:39.171Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a5fc90a97ec54c85e09e88a",
+      "title": "BS Computer Science Department",
+      "description": "This project is making for my BS computer science department with multiple dashboard like student admin teacher with multiple roles.",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1784662281/portfolio_projects/xzepyoicfzvthvc02isn.png",
+      "liveLink": "https://bscs-gpgc-lakki.vercel.app",
+      "githubLink": "",
+      "technologies": [],
+      "user": "admin",
+      "createdAt": "2026-07-21T19:31:22.235Z",
+      "updatedAt": "2026-07-21T19:31:22.235Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a25230a5d1d697e7919a763",
+      "title": "AI Clinic Management System",
+      "description": "A full-stack hospital management platform built during a hackathon in just 6 hours. Features secure JWT authentication, patient and doctor management, appointment scheduling, cloud-based image uploads, and a modern responsive dashboard.",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1780818698/portfolio_projects/dvshesgnylw0pivd5zgn.png",
+      "liveLink": "https://ai-clinic-management-frontend.vercel.app/login",
+      "githubLink": "",
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JWT",
+        "Cloudinary."
+      ],
+      "createdAt": "2026-06-07T07:51:38.346Z",
+      "updatedAt": "2026-06-07T07:51:38.346Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a250b8d1d7a04a57d5ef32e",
+      "title": "College Website",
+      "description": "This is my first project which are make for my college",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1780812686/portfolio_projects/hosqaxtb2ose3qrumh01.png",
+      "liveLink": "https://gpg-clakki.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Bootsrap"
+      ],
+      "createdAt": "2026-06-07T06:11:25.741Z",
+      "updatedAt": "2026-06-07T06:14:37.200Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2066c8ac9f62b93215f8cf",
+      "title": "Multi Role Dashboard",
+      "description": "This is the first my Multi Role React Project",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1780508359/portfolio_projects/up6awhazmabahokxi8ak.png",
+      "liveLink": "https://multi-role-dashboard-9qjz.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "TailwindCss"
+      ],
+      "createdAt": "2026-06-03T17:39:20.200Z",
+      "updatedAt": "2026-06-03T17:39:20.200Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a205f0aac9f62b93215f8ce",
+      "title": "Expense-Tracker",
+      "description": "Here you can manage your daily expense and income ",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1780506378/portfolio_projects/u6zofpe8cigz74sgvmbp.png",
+      "liveLink": "https://expense-tracker-sak3.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "React",
+        "TailwindCss",
+        "Redux"
+      ],
+      "createdAt": "2026-06-03T17:06:18.856Z",
+      "updatedAt": "2026-06-03T17:06:18.856Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a2053c347c487eced929b8f",
+      "title": "Commercail Project",
+      "description": "This is the first project which are make with help of Bootsrap",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1780503491/portfolio_projects/lrhpramrg2lk9nsjcqro.png",
+      "liveLink": "http://localhost:5174/dashboard",
+      "githubLink": "",
+      "technologies": [
+        "Bootsrap"
+      ],
+      "createdAt": "2026-06-03T16:18:11.514Z",
+      "updatedAt": "2026-06-03T16:18:11.514Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a1fa544cfbfcded111eacc3",
+      "title": "Coffi Shop",
+      "description": "this is make with simple html and css and also responsive for mobile",
+      "image": "https://res.cloudinary.com/dsrxc2hqg/image/upload/v1780458820/portfolio_projects/cz8smeo2uw20iwugmkfn.png",
+      "liveLink": "https://cofee-sooty.vercel.app/",
+      "githubLink": "",
+      "technologies": [
+        "HTML css"
+      ],
+      "createdAt": "2026-06-03T03:53:40.944Z",
+      "updatedAt": "2026-06-03T04:28:50.279Z",
+      "__v": 0
+    }
+  ],
+  "skills": [],
+  "aiTools": [],
+  "services": []
+}
